@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw7.1</string>
+    <string name="good_morning">good morning \n</string>
+    <string name="synchronization">synchronization</string>
+    <string name="good_afternoon">good afternoon \n</string>
+    <string name="good_evening">good evening \n</string>
+</resources>
